@@ -101,7 +101,7 @@
 
 ## New Technologies Introduced (Optional) 
 
-> If the service introduces a new technology that hasn’t been widely used in Mercari, introduce it and explain why it’s necessary.
+> If the service introduces a new technology that hasn’t been widely used , introduce it and explain why it’s necessary.
 
 ## References
 

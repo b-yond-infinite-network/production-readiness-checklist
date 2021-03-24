@@ -10,7 +10,7 @@ Read [Production Readiness Level](../references/production-readiness-level.md) a
 
 ## 2. Create a new GitHub issue
 
-Create a new GitHub issue for production readiness review (Internally, we prepare GitHub Issue teamplate for production readiness check and the service owners create an issue by it. See an [example](https://github.com/mercari/production-readiness-checklist/issues/1)).
+Create a new GitHub issue for production readiness review (Internally, we prepare GitHub Issue teamplate for production readiness check and the service owners create an issue by it.
 
 ## 3. Verify the checklist
 
@@ -22,7 +22,5 @@ Verify if each item is satisfied or not **by your own team**.
 
 ## 4. Get reviews
 
-After you have checked all items in the list, ask for review:
+After you have checked all items in the list, ask for review
 
-- If it's a Mercari microservice, please ask architect team
-- If it's a Merpay microservice, please ask merpay SRE
