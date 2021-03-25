@@ -107,7 +107,7 @@ It is recommended to ensure that your service is deployed in production (but not
 - [ ] [ Non-sensitive log](docs/concepts/non-sensitive-log.md) - It does not write sensitive information to app logs (STDOUT/STDERR).
 - [ ] [ RBAC](https://en.wikipedia.org/wiki/Role-based_access_control) - Role-based access control
 - [ ] [ SAST](#) - Perform Static Analysis Security Testing , i.e [dependabot](https://dependabot.com)
-- [ ] [ DAST](#) - Perform Dynamic Analysis Security Testing , i.e [owasp zaproxy](https://www.zaproxy.org/)
+- [ ] [ DAST](#) - Perform Dynamic Analysis Security Testing , i.e [zaproxy](https://www.zaproxy.org/), [w3af](http://w3af.org)
 - [ ] [ Secrets overrides](#) - Provide a mechanism to override default product credentials
 - [ ] [ Checksum](#) - Provide a mechanism for verifying builds integrity.
 
