@@ -1,3 +1,22 @@
+
+# OWASP Top 10
+
+- [ ] Injection
+- [ ] Broken Authentication
+- [ ] Sensitive Data Exposure
+- [ ] XML External Entities (XXE)
+- [ ] Broken Access Control
+- [ ] Security Misconfiguration
+- [ ] Cross-Site Scripting (XSS)
+- [ ] Insecure Deserialization
+- [ ] Using Components with Known Vulnerabilities
+- [ ] Insufficient Logging & Monitoring
+ 
+
+    [REFERENCE](https://owasp.org/www-project-top-ten/) 
+
+
+
 # Production Readiness Checklist
 
 [Production Readiness Checklists](docs/references/production-readiness-checklist.md) and other reference [docs](/docs).
@@ -13,7 +32,6 @@ The check items in each phase vary by its [Production Readiness Level](/docs/ref
 
 
 Have design phase review before beginning development of your microservice and have pre-production phase review before rolling out production release.
-
 
 
 # Design checklist

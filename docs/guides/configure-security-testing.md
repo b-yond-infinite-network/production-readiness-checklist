@@ -7,9 +7,8 @@ There are 2 main application security testing methodologies, **SAST** (Static An
 Implementation done as part of the pipeline 
 
 - Trivy [aquasecurity/trivy](https://github.com/aquasecurity/trivy) for container images scanning.
-
-- Helm Chart analysis , [Fairwinds/Polaris](https://insights.docs.fairwinds.com/reports/polaris/) .
-
+- Helm Chart analysis , [Fairwinds/Polaris](https://insights.docs.fairwinds.com/reports/polaris/).
+- Dependabot
 
 
 ## Dynamic Analysis 
